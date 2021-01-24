@@ -199,8 +199,7 @@ namespace AirLines_S2
                 }
                 if (!string.IsNullOrEmpty(FromComboBox.Text) && !string.IsNullOrEmpty(ToComboBox.Text))
                 {
-                    (dataGridView1.DataSource as DataTable).DefaultView.RowFilter = string.Format("FromAirport = '{0}'", FromComboBox.Text);
-                    (dataGridView1.DataSource as DataTable).DefaultView.RowFilter = string.Format("ToAirport = '{0}'", ToComboBox.Text);
+                    (dataGridView1.DataSource as DataTable).DefaultView.RowFilter = string.Format("FromAirport = '{0}' AND ToAirport = '{1}'", FromComboBox.Text, ToComboBox.Text);
                 }
             }
 

@@ -105,6 +105,7 @@
             // 
             // FromComboBox
             // 
+            this.FromComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.FromComboBox.FormattingEnabled = true;
             this.FromComboBox.Items.AddRange(new object[] {
             "NONE"});
@@ -115,6 +116,7 @@
             // 
             // ToComboBox
             // 
+            this.ToComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.ToComboBox.FormattingEnabled = true;
             this.ToComboBox.Location = new System.Drawing.Point(63, 70);
             this.ToComboBox.Name = "ToComboBox";

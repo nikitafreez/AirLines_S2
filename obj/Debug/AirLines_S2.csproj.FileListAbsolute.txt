@@ -9,3 +9,14 @@ C:\Users\nikit\source\repos\AirLines_S2\obj\Debug\AirLines_S2.csproj.CoreCompile
 C:\Users\nikit\source\repos\AirLines_S2\obj\Debug\AirLines_S2.exe
 C:\Users\nikit\source\repos\AirLines_S2\obj\Debug\AirLines_S2.pdb
 C:\Users\nikit\source\repos\AirLines_S2\obj\Debug\AirLines_S2.EditFlight.resources
+D:\C#.Programs\AirLines_S2\bin\Debug\AirLines_S2.exe.config
+D:\C#.Programs\AirLines_S2\bin\Debug\AirLines_S2.exe
+D:\C#.Programs\AirLines_S2\bin\Debug\AirLines_S2.pdb
+D:\C#.Programs\AirLines_S2\obj\Debug\AirLines_S2.csprojAssemblyReference.cache
+D:\C#.Programs\AirLines_S2\obj\Debug\AirLines_S2.EditFlight.resources
+D:\C#.Programs\AirLines_S2\obj\Debug\AirLines_S2.ShedulesForm.resources
+D:\C#.Programs\AirLines_S2\obj\Debug\AirLines_S2.Properties.Resources.resources
+D:\C#.Programs\AirLines_S2\obj\Debug\AirLines_S2.csproj.GenerateResource.cache
+D:\C#.Programs\AirLines_S2\obj\Debug\AirLines_S2.csproj.CoreCompileInputs.cache
+D:\C#.Programs\AirLines_S2\obj\Debug\AirLines_S2.exe
+D:\C#.Programs\AirLines_S2\obj\Debug\AirLines_S2.pdb
