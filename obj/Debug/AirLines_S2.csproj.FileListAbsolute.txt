@@ -1,0 +1,11 @@
+C:\Users\nikit\source\repos\AirLines_S2\bin\Debug\AirLines_S2.exe.config
+C:\Users\nikit\source\repos\AirLines_S2\bin\Debug\AirLines_S2.exe
+C:\Users\nikit\source\repos\AirLines_S2\bin\Debug\AirLines_S2.pdb
+C:\Users\nikit\source\repos\AirLines_S2\obj\Debug\AirLines_S2.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\AirLines_S2\obj\Debug\AirLines_S2.ShedulesForm.resources
+C:\Users\nikit\source\repos\AirLines_S2\obj\Debug\AirLines_S2.Properties.Resources.resources
+C:\Users\nikit\source\repos\AirLines_S2\obj\Debug\AirLines_S2.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\AirLines_S2\obj\Debug\AirLines_S2.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\AirLines_S2\obj\Debug\AirLines_S2.exe
+C:\Users\nikit\source\repos\AirLines_S2\obj\Debug\AirLines_S2.pdb
+C:\Users\nikit\source\repos\AirLines_S2\obj\Debug\AirLines_S2.EditFlight.resources
